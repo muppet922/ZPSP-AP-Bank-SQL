@@ -1,0 +1,15 @@
+[en]
+ZPSP_INVALID_TARGET = Invalid target
+ZPSP_ADMIN_GIVE_AP = ^4[ZvH]^1 Admin^3 %s^1 gave^4 %d^1 ammopacks to^3 %s
+
+[es]
+ZPSP_INVALID_TARGET = Objetivo inválido
+ZPSP_ADMIN_GIVE_AP = ^4[ZvH]^1 El admin^3 %s^1 le dio^4 %d^1 paquetes de munición a^3 %s
+
+[ro]
+ZPSP_INVALID_TARGET = Țintă invalidă
+ZPSP_ADMIN_GIVE_AP = ^4[ZvH]^1 Adminul^3 %s^1 a dat^4 %d^1 pachete de muniție lui^3 %s
+
+[ru]
+ZPSP_INVALID_TARGET = Недопустимая цель
+ZPSP_ADMIN_GIVE_AP = ^4[ZvH]^1 Админ^3 %s^1 выдал^4 %d^1 боеприпасов игроку^3 %s
