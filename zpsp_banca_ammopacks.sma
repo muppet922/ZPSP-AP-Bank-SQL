@@ -193,22 +193,6 @@ public IgnoreHandle(failstate, Handle:query, error[], errnum, data[], size, Floa
     }
 }
 
-public zp_user_humanized_post(id)
-{
-    if (is_user_connected(id) && !is_user_bot(id))
-    {
-        zp_set_user_ammo_packs(id, g_iAmmoPacks[id]);
-    }
-}
-
-public zp_user_infected_post(id)
-{
-    if (is_user_connected(id) && !is_user_bot(id))
-    {
-        zp_set_user_ammo_packs(id, g_iAmmoPacks[id]);
-    }
-}
-
 public plugin_end()
 {
     for (new id = 1; id <= MAX_PLAYERS; id++)
