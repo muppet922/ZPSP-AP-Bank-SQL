@@ -16,18 +16,22 @@ Multi-language support
 
 # Requirements
 AMX Mod X 1.8.2 or higher
+
 Zombie Plague Special mod
+
 MySQL database
 
 # Installation
 Compile the plugin using the AMX Mod X compiler.
+
 Upload the compiled .amxx file to your addons/amxmodx/plugins/ directory.
-Add the plugin to your plugins.ini file:
-`zpsp_ammo_packs_saver.amxx`
+
+Add the plugin to your plugins.ini file: `zpsp_ammo_packs_saver.amxx`
 
 # Configuration
 
 Create a new file named zpsp_bank_mysql.cfg in your addons/amxmodx/configs/ directory.
+
 Add the following lines to the file, replacing the values with your actual database information:
 
 `zpsp_mysql_host "localhost"
