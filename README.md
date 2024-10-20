@@ -6,11 +6,12 @@ Persistent ammo pack storage using MySQL database
 
 Automatic saving of ammo packs on disconnect and round end
 
-Admin command to give ammo packs to players
+Admin command to give ammo packs to players `amx_giveap <target> <amount>`
 
-`amx_giveap <target> <amount>`
 Bot support with fixed ammo pack amount
+
 Compatible with Zombie Plague Special events (infection, humanization)
+
 Multi-language support
 
 # Requirements
