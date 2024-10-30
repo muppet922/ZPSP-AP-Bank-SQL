@@ -27,7 +27,7 @@ An AMX Mod X plugin designed to work with Zombie Plague Special mod for Counter-
 2. Upload the compiled `.amxx` file to your `addons/amxmodx/plugins/` directory.
 3. Add the plugin to your `plugins.ini` file:
    ```
-   zpsp_ammo_packs_saver.amxx
+   zpsp_banca_ammopacks.sma
    ```
 
 ## ⚙️ Configuration
