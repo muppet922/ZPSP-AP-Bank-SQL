@@ -1,4 +1,4 @@
-# 🧟 ZPSP-Ammo-Packs-Bank-SQL
+# 🧟 ZPSP-AmmoPacks-Bank-SQL
 
 ![Zombie Plague Special](https://img.shields.io/badge/Zombie%20Plague-Special-brightgreen)
 ![AMXX](https://img.shields.io/badge/AMXX-1.8.2%2B-blue)
